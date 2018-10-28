@@ -1,7 +1,7 @@
 body{
      font: 15px Arial, Helvetica, san-serif;
      padding: 10;
-     margin: 60;
+     margin: 50;
      background-color: #bce8fa;
   box-sizing: border-box;
 }
@@ -99,7 +99,7 @@ h2{
 }
 
 .menu{
- width: 104%;
+ width: 105%;
  height: 150x;
  display: flex;
 
@@ -113,7 +113,7 @@ h2{
 .menu li {
 
   list-style:none;
-  padding: 20px 120px;
+  padding: 15px 90px;
 }
 
 .menu li{
@@ -129,8 +129,8 @@ h2{
   background:#070707; 
   clear:both;
   padding-top:5px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
   padding-bottom: 0px;
 text-align: center;
 color: #68a3bb;
