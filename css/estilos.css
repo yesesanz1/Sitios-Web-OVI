@@ -1,0 +1,140 @@
+body{
+     font: 15px Arial, Helvetica, san-serif;
+     padding: 10;
+     margin: 60;
+     background-color: #bce8fa;
+  box-sizing: border-box;
+}
+
+/* Estilos globales */
+{
+  width:100%;
+  margin:auto;
+  overflow:hidden;
+}
+
+{
+  margin: 0;
+  padding:0;
+}
+
+{
+  height:50px;
+  background:#bce8fa;
+  border:0;
+  padding-left: 20px;
+  padding-right:20px;
+  color:#bce8fa;
+}
+
+{
+  padding:15px;
+  background:#ff4f00;
+  color:#ffffff;
+  margin-top:30px;
+  margin-bottom:10px;
+
+}
+
+/* Encabezado **/
+header{
+  background:#ffffff;
+  color:#946471;
+  padding-top:20px;
+  min-height:20px;
+   text-align:center;
+  width: 100%;
+}
+
+
+header a{
+
+  color: #f4f4f4;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+
+}
+
+header #marca{
+      float: center;
+}
+
+header #marca h1{
+      margin: 0;
+}
+
+header nav{
+      float: right;
+      margin-top: 10px;
+}
+header .resaltado, header .actual a{
+      color: #68a3bb;
+      font-weight: bold;
+}
+
+header a:hover{
+      color: #ccc;
+      font-weight: bold;
+}
+h2{
+  font-size: 22px;
+}
+.Bienvenidos{
+  margin-top: 50px;
+  text-align: justify;
+}
+.contenedor-columnas{
+  width: 100%;
+  margin: auto;
+  margin-bottom: 90px;
+}
+.columnax3{
+  width: 33.33%;
+  float: left;
+  text-align:justify;
+  padding: 20px 20px;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+.menu{
+ width: 104%;
+ height: 150x;
+ display: flex;
+
+}
+
+.menu ul{
+  display: flex;
+  margin: auto;
+}
+
+.menu li {
+
+  list-style:none;
+  padding: 20px 120px;
+}
+
+.menu li{
+  background:#85134b; 
+  color:white; 
+  cursor:pointer; 
+  transition: all 300ms;
+
+}
+
+.banner-1{
+  width: 97%;
+  background:#070707; 
+  clear:both;
+  padding-top:5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+text-align: center;
+color: #68a3bb;
+
+}
+
+
